@@ -11,11 +11,11 @@ The Angular Color Picker App was developed using the following technologies:
 - HTML and CSS for styling
 
 ## Installation and Usage
-To run the Angular Color Picker App, follow these steps:
+To run the Angular Tour of Heroes application, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the project in a code editor.
-3. Run npm install to install the required dependencies.
-4. Run ng serve to start the development server.
-5. Navigate to http://localhost:4200/ in your browser to view the app.
+3. Run `npm install` to install the required dependencies.
+4. Run `ng serve` to start the development server.
+5. Navigate to `http://localhost:4200/` in your browser to view the app.
 
-Once the app is running, you can use the color input element to change the color of the div element on the page.
+Once the app is running, you can navigate through the various views of the application to see how it works.
